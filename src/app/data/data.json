@@ -6,7 +6,7 @@
       "description": "Dispositivos y gadgets",
       "icon": "fas fa-laptop",
       "slug": "electronics",
-      "featured": true
+      "featured": false
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "description": "Literatura y materiales educativos",
       "icon": "fas fa-book",
       "slug": "books",
-      "featured": false
+      "featured": true
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
       "description": "Equipos y artículos deportivos",
       "icon": "fas fa-football-ball",
       "slug": "sports",
-      "featured": false
+      "featured": true
     },
     {
       "id": 5,
@@ -46,7 +46,7 @@
       "description": "Productos de cuidado personal",
       "icon": "fas fa-heart",
       "slug": "health-beauty",
-      "featured": true
+      "featured": false
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "description": "Vehículos y accesorios automotrices",
       "icon": "fas fa-car",
       "slug": "automotive",
-      "featured": false
+      "featured": true
     },
     {
       "id": 8,
