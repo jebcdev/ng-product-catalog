@@ -12,7 +12,12 @@ export const publicRoutes: Routes = [
         title: 'Home',
         path: '',
         component: PublicHomePage,
-      },
+      }
+      ,{
+        title: 'Categories',
+        path: 'categories',
+        loadChildren:()=>import('@app/public/categories/categories.routes'),
+    }
     ],
   },
 ];
